@@ -29,7 +29,7 @@
     "jss-preset-default": "^4.5.0",
     "lodash.merge": "^4.6.1",
     "mapbox-gl": "^1.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "object-assign": "4.1.1",
     "papaparse": "^4.6.3",
     "pluralize": "^7.0.0",
