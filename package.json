@@ -35,7 +35,7 @@
     "pluralize": "^7.0.0",
     "promise": "8.0.1",
     "prop-types": "^15.6.2",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "raf": "3.4.0",
     "react": "^16.6.1",
     "react-autosuggest": "^9.4.2",
